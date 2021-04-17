@@ -21,5 +21,5 @@ const atik = {
     architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
 }
 
-
+---
 ⭐ From [@atikulislamatik](https://github.com/atikulislamatik)
